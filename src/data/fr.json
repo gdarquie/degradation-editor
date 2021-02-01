@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "home": {
+      "app_title": "La Dégradation - Récit Interactif",
+      "title": "La Dégradation",
+      "subtitle":"Récit Hybride",
+      "writer": "Gaétan Darquié",
+      "intro": "Ca y est, enfin libéré.e! Vous venez d’entrer en maison de retraite et pouvez désormais profiter pleinement de la vie.",
+      "description": "Dans ce récit interactif du troisième âge, vous avez 5 minutes pour choisir comment vous vivrez avec (ou contre) le vieillissement, la mort et la télévision.",
+      "start": "Commencer la lecture",
+      "about": "Ce projet a été réalisé grâce au soutien de la Bourse Brouillon d’un Rêve Pierre Schaeffer.",
+      "infos": "Version alpha 0.2 - dernière mise à jour le 1er février 2021"
+    }
+  },
+  "backgrounds": [
+      {
+        "type": "reader",
+        "html_content": "<p>Vous êtes fan de lecture et de mots croisés.</p><p>Avoir grandi.e en Meuse, vous a fait prendre très tôt la mesure du pire et c'est sans doute une certaine forme d'acceptation de la non exaltation qui vous a fait vous rapprocher de tout ce qui est ennuyeux.</p><p>Pas étonnant que vous appréciez autant Proust.</p>"
+      },
+      {
+        "type": "rocket",
+        "html_content": "<p>Passionné.e d'aérospatiale vous ne ratez jamais un décollage.</p><p>Les sciences vous passionnent et plus particulièrement la physique, vous êtes incollable en fusion nucléaire et admirateur/rice du projet ITER.</p>"
+      },
+      {
+        "type": "sport",
+        "html_content": "<p>Vous êtes un.e ancien.ne athlète de haut niveau, vous avez même passé les sélections pour les jeux olympiques.</p><p> Malheureusement, vous avez dû renoncer à participer à cause d'une blessure.</p><p>Après la vie vous a rattrapé et vous êtes finalement devenue coach puis gérant.e d'une salle de sport.</p>"
+      },
+      {
+        "type": "astronomer",
+        "html_content": "<p>Chaque soir, vous aviez pris l'habitude étrange de regarder d'un oeil les petits points lumineux qui peuplent le ciel.</p><p>Vous exécrez par dessus tout les personnes qui confondent l'astrologie et l'astronomie.</p><p>Heureusement, depuis que vous êtes venu.e vivre en ligne, vous n'avez plus loisir de voir autre chose qu'une infecte masse noire opaque quand vous levez les yeux.</p>"
+      },
+      {
+        "type": "normal",
+        "html_content": "<p>Vous êtes née et avez vécu toute votre vie en Charente Maritime près de Rochefort. Aujourd'hui, votre fille vous a accompagnée avec vos ses deux fils, vos seuls petits enfants dans la maison des Cerfeuils.</p><p>Passionnée de carte et de lecture, vous êtes excitée et en même temps légèrement inquiète de déménager vous qui avez presque vécue toute votre vie dans la même maison.</p><p> Supporterez-vous la compagnie des autres, pire, les autres vous supporterons-t-ils/elles?</p>"
+      },
+      {
+        "type": "cnrs",
+        "html_content": "<p>Certes, la dernière fois que vous avez acheté des vêtements remonte à l'époque des VHS, néanmoins quand il s'agit de physique quantique, on ne vous la fait pas. Et si jamais quelqu'un.e daigne aborder la question de la gravité quantique à boucle, cette personne sera à tout jamais perdu à la première approximation.</p><p>Et il est rare de ne pas faire d'approximation lorsqu'on parle du sujet. Tout le monde fait des erreurs. Enfin presque tout le monde.</p> "
+      },
+      {
+        "type": "private",
+        "html_content": "<p>On prêtes aux privé.e.s une vie folle, mais la filature de personnes suspecté.e.s par leurs conjoint.e.s jalou.ses/x vous a volé avec autant de morosité et d'ennui que pour n'importe qui votre jeunesse et vos souvenirs.</p><p>Vous êtes arrivé.e ici avec autant de fatigue, de lassitude et de souvenirs perdus que tou.(te).s les autres pensionnaires.</p>"
+      },
+      {
+        "type": "nurse",
+        "html_content": "<p>Pendant tout votre vie, vous vous êtes occupés des autres, infirmi.er/ère depuis vos 18 ans, vous avez toujours exercé ce métier sans interruption.</p><p>Aujourd'hui ce sont d'autres personnes qui s'occuppent de vous à leur tour.</p>"
+      }
+  ],
+  "actions": {
+
+  }
+}
